@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -12,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: amefonaffia/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "Medium"
           commit_message: "Updated readme with the latest medium post"
-          feed_list: https://medium.com/feed/@amefonaffia         
+          feed_list: "https://medium.com/feed/@amefonaffia"         
