@@ -38,7 +38,8 @@
 
 ## ⚡ Fun Facts
 - I love film making 📹, you can check out details to our upcoming film and contribute on [GoFundMe](https://www.gofundme.com/f/the-hail-mary-feature-film).
-
+##
+<br />
 <img align="left" alt="amefonaffia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amefonaffia&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
 <!--
