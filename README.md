@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- 🌱 I’m currently learning about cloud security and DevSecOps practices.
+- 🌱 I’m currently learning about advanced cloud security and DevSecOps practices.
 - 👯 Looking to collaborate on security project documentations especially for cloud security projects.
 - ⚡ 2020 Goals: Contribute more to Open Source projects, advance IoT security research project, complete highly anticipated film project (GoFundMe in website).
 
