@@ -21,8 +21,8 @@
 ## 📕 Latest Blog Posts
 ### Medium
 
-<!-- <!-- Medium::START -->
-<!-- <!-- Medium::END -->
+<!-- Medium:START -->
+<!-- Medium:END -->
 
 ### Youtube DevSecOps Playlist
 
