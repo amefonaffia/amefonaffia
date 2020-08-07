@@ -19,9 +19,9 @@
 [instagram]: https://www.instagram.com/amy_qb
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- <!-- Medium::START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- <!-- Medium::END -->
 
 <img align="left" alt="amefonaffia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amefonaffia&show_icons=true&hide_border=true" />
 
