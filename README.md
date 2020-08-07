@@ -24,7 +24,7 @@
 <!-- <!-- Medium::START -->
 <!-- <!-- Medium::END -->
 
-### Youtube
+### Youtube DevSecOps Playlist
 
 <!-- BLOG-POST-LIST:START -->
 - [Integrating Container Security Into the DevSecOps Pipeline](https://www.youtube.com/watch?v=4Jd28k3mjrk)
