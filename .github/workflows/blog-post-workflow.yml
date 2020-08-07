@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme-with-blog:
@@ -13,5 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list:https://medium.com/feed/@amefonaffia
-          comment_tag_name: "Medium"
-          commit_message: "Updated readme with the latest medium post"
+          comment_tag_name:"Medium"
+          commit_message:"Updated readme with the latest medium post"
