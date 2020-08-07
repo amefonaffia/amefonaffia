@@ -20,7 +20,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- <!-- Medium::START -->
-
 <!-- <!-- Medium::END -->
 
 <img align="left" alt="amefonaffia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amefonaffia&show_icons=true&hide_border=true" />
