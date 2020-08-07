@@ -22,6 +22,7 @@
 ### Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Quick summary on Microsoft’s newly launched initiatives and how you can access them.](https://medium.com/@amefonaffia/quick-summary-on-microsofts-newly-launched-initiatives-and-how-you-can-access-them-68f83e93ff6d?source=rss-927b97076851------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube DevSecOps Playlist
