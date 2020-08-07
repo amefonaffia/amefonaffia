@@ -1,8 +1,9 @@
-name: Latest blog post workflow
+name: Latest youtube post workflow
 on:
   schedule:
     # Runs every month
     - cron: '0 0 1 * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
