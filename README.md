@@ -19,7 +19,15 @@
 [twitter]: https://twitter.com/amy_qb
 [instagram]: https://www.instagram.com/amy_qb
 
-## 📚 Latest Blog Posts
+## 📚 Latest Posts
+### DevSecOps Repos
+- [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK)
+- [Pacu](https://github.com/RhinoSecurityLabs/pacu)
+- [Cloud Pentest Cheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
+- [Checkov](https://github.com/bridgecrewio/checkov)
+- [Find sec bugs](https://github.com/find-sec-bugs/find-sec-bugs)
+- [Kubernetes goat](https://github.com/madhuakula/kubernetes-goat)
+
 ### 📝 Medium
 
 <!-- BLOG-POST-LIST:START -->
@@ -32,6 +40,8 @@
 - [Integrating Container Security Into the DevSecOps Pipeline](https://www.youtube.com/watch?v=4Jd28k3mjrk)
 - [Adding Dependency Checks Into Your DevSecOps Pipeline](https://www.youtube.com/watch?v=vpaF2TnjIDw)
 - [Integrating Dynamic Application Security Testing (DAST) into your pipeline](https://www.youtube.com/watch?v=W_7BxFgMYHs)
+- [Integrating Static Analysis Security Testing Into Your DevSecOps Pipeline Using GitHub Actions](https://www.youtube.com/watch?v=tOiiA79On4k)
+- [DevSecOps : What, Why and How](https://www.youtube.com/watch?v=DzX9Vi_UQ8o)
 <!-- YOUTUBE:END -->
 
 ## ⚡ Fun Facts
