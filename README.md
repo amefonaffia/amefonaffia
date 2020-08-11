@@ -20,7 +20,7 @@
 [instagram]: https://www.instagram.com/amy_qb
 
 ## 📚 Latest Posts
-### DevSecOps Repos
+### 🔭 DevSecOps Github Repos
 - [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK)
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu)
 - [Cloud Pentest Cheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
