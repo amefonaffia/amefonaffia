@@ -27,6 +27,7 @@
 - [Checkov](https://github.com/bridgecrewio/checkov)
 - [Find sec bugs](https://github.com/find-sec-bugs/find-sec-bugs)
 - [Kubernetes goat](https://github.com/madhuakula/kubernetes-goat)
+- [Kubei](https://github.com/Portshift/kubei)
 
 ### 📝 Medium
 
