@@ -10,14 +10,12 @@
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][project]
-<br />
-<br />
+##
 
 [project]: https://amefonaffia.github.io
 [linkedin]: https://www.linkedin.com/in/abasi-amefon-affia/
 [twitter]: https://twitter.com/amy_qb
 
-##
 ## 📚 Latest Posts
 ### 🔭 DevSecOps Github Repos
 - [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK)
