@@ -14,10 +14,9 @@
 <br />
 <br />
 
-[project]: https://www.gofundme.com/f/the-hail-mary-feature-film
+[project]: https://amefonaffia.github.io
 [linkedin]: https://www.linkedin.com/in/abasi-amefon-affia/
 [twitter]: https://twitter.com/amy_qb
-[instagram]: https://www.instagram.com/amy_qb
 
 ## 📚 Latest Posts
 ### 🔭 DevSecOps Github Repos
