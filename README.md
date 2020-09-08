@@ -1,15 +1,14 @@
-## Hi there 👋  
-
+## Hi there 👋 
 - 🌱 I’m currently exploring cloud security and DevSecOps practices.
 - 🎓 PhD in Computer Science 2022. Studying Security Risk Management in IoT systems.
 - 👯 Looking to collaborate on security project documentations especially for cloud security projects.
 - 🌠 2020 Goals: Contribute more to Open Source projects, advance my IoT security research project, complete highly anticipated [film project](https://www.gofundme.com/f/the-hail-mary-feature-film).
 
-<!--### 📫 Connect with me: -->
-##
+### 📫 Connect with me:
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][project]
+<br />
 ##
 
 [project]: https://amefonaffia.github.io
