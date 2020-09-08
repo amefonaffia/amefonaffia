@@ -5,8 +5,8 @@
 - 👯 Looking to collaborate on security project documentations especially for cloud security projects.
 - 🌠 2020 Goals: Contribute more to Open Source projects, advance my IoT security research project, complete highly anticipated [film project](https://www.gofundme.com/f/the-hail-mary-feature-film).
 
-### 📫 Connect with me:
-
+<!--### 📫 Connect with me: -->
+##
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][project]
@@ -17,6 +17,7 @@
 [linkedin]: https://www.linkedin.com/in/abasi-amefon-affia/
 [twitter]: https://twitter.com/amy_qb
 
+##
 ## 📚 Latest Posts
 ### 🔭 DevSecOps Github Repos
 - [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK)
@@ -43,7 +44,7 @@
 
 ## ⚡ Fun Facts
 - I love film making 📹, you can check out details to our upcoming film and contribute on [GoFundMe](https://www.gofundme.com/f/the-hail-mary-feature-film).
-##
+
 <!-- <br />
 <img align="left" alt="amefonaffia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amefonaffia&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 
