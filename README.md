@@ -14,7 +14,7 @@
 [linkedin]: https://www.linkedin.com/in/abasi-amefon-affia/
 [twitter]: https://twitter.com/amy_qb
 
-## 📚 Latest Posts
+## 📚 Cloud Posts
 ### 🔭 Interesting DevSecOps Github Repos
 - Cloud Pentest tools -> [Pacu](https://github.com/RhinoSecurityLabs/pacu), [Cloud Pentest Cheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
 - Cloud GOATS -> [Kubernetes goat](https://github.com/madhuakula/kubernetes-goat), [Terraform goat](https://github.com/bridgecrewio/terragoat)
