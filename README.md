@@ -1,7 +1,6 @@
 ## Hi there 👋 
 - 🌱 I’m currently exploring cloud security and DevSecOps practices.
-- 🎓 PhD in Computer Science 2022. Studying Security Risk Management in IoT systems.
-<!--- 👯 Looking to collaborate on security project documentations especially for cloud security projects. -->
+- 🎓 PhD in Computer Science 2022. Studying Security Risk Management in IoT systems. <!--- 👯 Looking to collaborate on security project documentations especially for cloud security projects. -->
 - 🌠 2020 Goals: Contribute more to Open Source projects, advance my IoT security research project, complete highly anticipated [film project](https://www.gofundme.com/f/the-hail-mary-feature-film).
 
 ### 📫 Connect with me:
