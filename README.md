@@ -16,14 +16,13 @@
 [twitter]: https://twitter.com/amy_qb
 
 ## 📚 Latest Posts
-### 🔭 DevSecOps Github Repos
-- [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK)
-- [Pacu](https://github.com/RhinoSecurityLabs/pacu)
-- [Cloud Pentest Cheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
-- [Checkov](https://github.com/bridgecrewio/checkov)
-- [Find sec bugs](https://github.com/find-sec-bugs/find-sec-bugs)
-- [Kubernetes goat](https://github.com/madhuakula/kubernetes-goat)
-- [Kubei](https://github.com/Portshift/kubei)
+### 🔭 Interesting DevSecOps Github Repos
+- Cloud Pentest tools -> [Pacu](https://github.com/RhinoSecurityLabs/pacu), [Cloud Pentest Cheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
+- Cloud GOATS -> [Kubernetes goat](https://github.com/madhuakula/kubernetes-goat), [Terraform goat](https://github.com/bridgecrewio/terragoat)
+- Vulnerability scanning tools -> [Checkov](https://github.com/bridgecrewio/checkov), [Kubei](https://github.com/Portshift/kubei)
+- [Aquasecurity tools](https://github.com/aquasecurity)
+- Interesting cloud IDS -> [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK)
+
 
 ### 📝 Medium
 
