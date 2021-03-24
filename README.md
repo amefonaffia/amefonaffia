@@ -1,7 +1,7 @@
 ## Hi there 👋 
 - 🌱 I’m currently exploring cloud security and DevSecOps practices.
 - 🎓 PhD in Computer Science 2022. Studying Security Risk Management in IoT systems. <!--- 👯 Looking to collaborate on security project documentations especially for cloud security projects. -->
-- 🌠 2021 Goals: Contribute more to Open Source projects, advance my IoT security research project, complete my highly anticipated [film project](https://m.imdb.com/title/tt13557860/) which has completed post-production.
+<!--- 🌠 2021 Goals: Contribute more to Open Source projects, advance my IoT security research project, complete my highly anticipated [film project](https://m.imdb.com/title/tt13557860/) which has completed post-production.-->
 
 ### 📫 Connect with me:
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -37,7 +37,7 @@
 <!-- YOUTUBE:END -->
 
 ## ⚡ Fun Facts
-- I love film making 📹, you can check out details to our upcoming [film](https://m.imdb.com/title/tt13557860/).
+- I love film making 📹, you can check out details to our premiered [film](https://m.imdb.com/title/tt13557860/).
 
 <!-- <br />
 <img align="left" alt="amefonaffia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amefonaffia&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
