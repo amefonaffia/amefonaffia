@@ -1,6 +1,6 @@
 ## Hi there 👋 
-- 🌱 I’m currently exploring cloud security and DevSecOps practices.
-- 🎓 PhD in Computer Science 2022. Studying Security Risk Management in IoT systems. <!--- 👯 Looking to collaborate on security project documentations especially for cloud security projects. -->
+- 🌱 I’m currently exploring the place of Hackathons in Security practices.
+- 🎓 PhD in Computer Science 2023.. <!--- 👯 Looking to collaborate on security project documentations especially for cloud security projects. -->
 <!--- 🌠 2021 Goals: Contribute more to Open Source projects, advance my IoT security research project, complete my highly anticipated [film project](https://m.imdb.com/title/tt13557860/) which has completed post-production.-->
 
 ### 📫 Connect with me:
@@ -13,16 +13,16 @@
 [project]: https://amefonaffia.github.io
 [linkedin]: https://www.linkedin.com/in/abasi-amefon-affia/
 [twitter]: https://twitter.com/amy_qb
-
+<!---
 ## 📚 Cloud Posts
 ### 🔭 Interesting DevSecOps Github Repos
 - Cloud Pentest tools -> [Pacu](https://github.com/RhinoSecurityLabs/pacu), [Cloud Pentest Cheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
 - Cloud GOATS -> [Kubernetes goat](https://github.com/madhuakula/kubernetes-goat), [Terraform goat](https://github.com/bridgecrewio/terragoat)
 - Vulnerability scanning/assessment tools -> [Checkov](https://github.com/bridgecrewio/checkov), [Kubei](https://github.com/Portshift/kubei), [Aquasecurity tools](https://github.com/aquasecurity)
-- Interesting cloud IDS -> [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK)
+- Interesting cloud IDS -> [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK) -->
 
-
-### 📝 Medium
+<!---
+### 📝 Medium  
 
 <!-- BLOG-POST-LIST:START -->
 - [Quick summary on Microsoft’s newly launched initiatives and how you can access them.](https://medium.com/@amefonaffia/quick-summary-on-microsofts-newly-launched-initiatives-and-how-you-can-access-them-68f83e93ff6d?source=rss-927b97076851------2)
@@ -36,6 +36,7 @@
 - [Checkov: Security & Compliance for Your Infrastructure-as-Code](https://www.youtube.com/watch?v=n5EdM-e-9DU)
 <!-- YOUTUBE:END -->
 
+-->
 ## ⚡ Fun Facts
 - I love film making 📹, you can check out details to our premiered [film](https://m.imdb.com/title/tt13557860/).
 
